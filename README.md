@@ -13,6 +13,7 @@ Building at the intersection of DSP and AI — spatial computing, voice interfac
 ---
 
 **Focus**
+
 Audio DSP · spatial audio · real-time ML · backend systems · C++ · Python
 
 ---
