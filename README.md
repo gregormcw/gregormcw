@@ -1,4 +1,4 @@
-Software Engineer at Amazon · Audio AI & Real-Time Systems
+**Software Engineer at Amazon** · Audio AI & Real-Time Systems
 
 Building at the intersection of DSP and AI — spatial computing, voice interfaces, and low-latency systems that feel instant, immersive, and human.
 
